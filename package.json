@@ -11,15 +11,19 @@
     "react-native": "0.43.2"
   },
   "devDependencies": {
+    "babel-eslint": "^7.2.1",
     "babel-jest": "19.0.0",
     "babel-preset-react-native": "1.9.1",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-config-prettier": "^1.6.0",
+    "eslint-plugin-flowtype": "^2.30.4",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-prettier": "^2.0.1",
     "eslint-plugin-react": "^6.10.3",
     "jest": "19.0.2",
+    "prettier": "^0.22.0",
     "react-test-renderer": "16.0.0-alpha.6"
   },
   "jest": {
