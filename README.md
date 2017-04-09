@@ -1,4 +1,4 @@
-# React Native Random Recipes \#1
+# React Native Random Recipes \#1 👨‍🍳
 
 The concept behind this small repo is that A LOT of different components are out there, in the wild, and as a React Native developer there is no easy way to see if any component may work out for your project in a **real world** scenario.
 
@@ -22,7 +22,7 @@ I don't care if I use a component in multiple recipes, as long as something chan
 
 Obviously I'd like to have the recipe decided by the community, and once I've figured out how much time each of this takes me, I may even have to consider keep on going if nobody cares (but tbh I do this mainly for myself, to try things out).
 
-## Today's recipe
+## Today's recipe 🍏
 
 Some big hitters this time:
 
@@ -35,4 +35,4 @@ Some big hitters this time:
 
 Got any component you would like to get tested? Any idea how to make this better? Wanna partecipate?
 
-Drop me a line on [@kelset](https://twitter.com/Kelset) on Twitter, or a PR to this README.md for longer/more prolific ideas, discussions, feedback.
+Drop me a line on [@kelset](https://twitter.com/Kelset) on Twitter, or open an issue here, or even a PR to this README.md for longer/more prolific ideas, discussions, feedback.
