@@ -25,7 +25,7 @@ module.exports = {
     "node": true
   },
   "rules": {
-    "comma-dangle": 1,
+    "comma-dangle": 0,
     "no-use-before-define": 0,
     "quote-props": 1,
     "react/jsx-no-bind": 1,
